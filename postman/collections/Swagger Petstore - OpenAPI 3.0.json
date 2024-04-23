@@ -75,9 +75,16 @@
 											"type": "oauth2",
 											"oauth2": [
 												{
-													"key": "scope",
-													"value": "write:pets read:pets",
-													"type": "string"
+													"key": "accessToken",
+													"type": "any"
+												},
+												{
+													"key": "addTokenTo",
+													"type": "any"
+												},
+												{
+													"key": "callBackUrl",
+													"type": "any"
 												},
 												{
 													"key": "authUrl",
@@ -85,9 +92,49 @@
 													"type": "string"
 												},
 												{
-													"key": "grant_type",
-													"value": "implicit",
+													"key": "accessTokenUrl",
+													"type": "any"
+												},
+												{
+													"key": "clientId",
+													"type": "any"
+												},
+												{
+													"key": "clientSecret",
+													"type": "any"
+												},
+												{
+													"key": "clientAuth",
+													"type": "any"
+												},
+												{
+													"key": "grantType",
+													"type": "any"
+												},
+												{
+													"key": "scope",
+													"value": "write:pets read:pets",
 													"type": "string"
+												},
+												{
+													"key": "username",
+													"type": "any"
+												},
+												{
+													"key": "password",
+													"type": "any"
+												},
+												{
+													"key": "tokenType",
+													"type": "any"
+												},
+												{
+													"key": "redirectUri",
+													"type": "any"
+												},
+												{
+													"key": "refreshToken",
+													"type": "any"
 												}
 											]
 										},
@@ -137,9 +184,16 @@
 											"type": "oauth2",
 											"oauth2": [
 												{
-													"key": "scope",
-													"value": "write:pets read:pets",
-													"type": "string"
+													"key": "accessToken",
+													"type": "any"
+												},
+												{
+													"key": "addTokenTo",
+													"type": "any"
+												},
+												{
+													"key": "callBackUrl",
+													"type": "any"
 												},
 												{
 													"key": "authUrl",
@@ -147,9 +201,49 @@
 													"type": "string"
 												},
 												{
-													"key": "grant_type",
-													"value": "implicit",
+													"key": "accessTokenUrl",
+													"type": "any"
+												},
+												{
+													"key": "clientId",
+													"type": "any"
+												},
+												{
+													"key": "clientSecret",
+													"type": "any"
+												},
+												{
+													"key": "clientAuth",
+													"type": "any"
+												},
+												{
+													"key": "grantType",
+													"type": "any"
+												},
+												{
+													"key": "scope",
+													"value": "write:pets read:pets",
 													"type": "string"
+												},
+												{
+													"key": "username",
+													"type": "any"
+												},
+												{
+													"key": "password",
+													"type": "any"
+												},
+												{
+													"key": "tokenType",
+													"type": "any"
+												},
+												{
+													"key": "redirectUri",
+													"type": "any"
+												},
+												{
+													"key": "refreshToken",
+													"type": "any"
 												}
 											]
 										},
@@ -261,9 +355,16 @@
 											"type": "oauth2",
 											"oauth2": [
 												{
-													"key": "scope",
-													"value": "write:pets read:pets",
-													"type": "string"
+													"key": "accessToken",
+													"type": "any"
+												},
+												{
+													"key": "addTokenTo",
+													"type": "any"
+												},
+												{
+													"key": "callBackUrl",
+													"type": "any"
 												},
 												{
 													"key": "authUrl",
@@ -271,9 +372,49 @@
 													"type": "string"
 												},
 												{
-													"key": "grant_type",
-													"value": "implicit",
+													"key": "accessTokenUrl",
+													"type": "any"
+												},
+												{
+													"key": "clientId",
+													"type": "any"
+												},
+												{
+													"key": "clientSecret",
+													"type": "any"
+												},
+												{
+													"key": "clientAuth",
+													"type": "any"
+												},
+												{
+													"key": "grantType",
+													"type": "any"
+												},
+												{
+													"key": "scope",
+													"value": "write:pets read:pets",
 													"type": "string"
+												},
+												{
+													"key": "username",
+													"type": "any"
+												},
+												{
+													"key": "password",
+													"type": "any"
+												},
+												{
+													"key": "tokenType",
+													"type": "any"
+												},
+												{
+													"key": "redirectUri",
+													"type": "any"
+												},
+												{
+													"key": "refreshToken",
+													"type": "any"
 												}
 											]
 										},
@@ -328,9 +469,16 @@
 											"type": "oauth2",
 											"oauth2": [
 												{
-													"key": "scope",
-													"value": "write:pets read:pets",
-													"type": "string"
+													"key": "accessToken",
+													"type": "any"
+												},
+												{
+													"key": "addTokenTo",
+													"type": "any"
+												},
+												{
+													"key": "callBackUrl",
+													"type": "any"
 												},
 												{
 													"key": "authUrl",
@@ -338,9 +486,49 @@
 													"type": "string"
 												},
 												{
-													"key": "grant_type",
-													"value": "implicit",
+													"key": "accessTokenUrl",
+													"type": "any"
+												},
+												{
+													"key": "clientId",
+													"type": "any"
+												},
+												{
+													"key": "clientSecret",
+													"type": "any"
+												},
+												{
+													"key": "clientAuth",
+													"type": "any"
+												},
+												{
+													"key": "grantType",
+													"type": "any"
+												},
+												{
+													"key": "scope",
+													"value": "write:pets read:pets",
 													"type": "string"
+												},
+												{
+													"key": "username",
+													"type": "any"
+												},
+												{
+													"key": "password",
+													"type": "any"
+												},
+												{
+													"key": "tokenType",
+													"type": "any"
+												},
+												{
+													"key": "redirectUri",
+													"type": "any"
+												},
+												{
+													"key": "refreshToken",
+													"type": "any"
 												}
 											]
 										},
@@ -454,7 +642,6 @@
 											],
 											"variable": [
 												{
-													"id": "1119c43e-993f-491a-85ca-fe7430e2e122",
 													"key": "petId",
 													"value": "<long>",
 													"description": "(Required) ID of pet to update"
@@ -471,9 +658,16 @@
 													"type": "oauth2",
 													"oauth2": [
 														{
-															"key": "scope",
-															"value": "write:pets read:pets",
-															"type": "string"
+															"key": "accessToken",
+															"type": "any"
+														},
+														{
+															"key": "addTokenTo",
+															"type": "any"
+														},
+														{
+															"key": "callBackUrl",
+															"type": "any"
 														},
 														{
 															"key": "authUrl",
@@ -481,9 +675,49 @@
 															"type": "string"
 														},
 														{
-															"key": "grant_type",
-															"value": "implicit",
+															"key": "accessTokenUrl",
+															"type": "any"
+														},
+														{
+															"key": "clientId",
+															"type": "any"
+														},
+														{
+															"key": "clientSecret",
+															"type": "any"
+														},
+														{
+															"key": "clientAuth",
+															"type": "any"
+														},
+														{
+															"key": "grantType",
+															"type": "any"
+														},
+														{
+															"key": "scope",
+															"value": "write:pets read:pets",
 															"type": "string"
+														},
+														{
+															"key": "username",
+															"type": "any"
+														},
+														{
+															"key": "password",
+															"type": "any"
+														},
+														{
+															"key": "tokenType",
+															"type": "any"
+														},
+														{
+															"key": "redirectUri",
+															"type": "any"
+														},
+														{
+															"key": "refreshToken",
+															"type": "any"
 														}
 													]
 												},
@@ -521,7 +755,6 @@
 													],
 													"variable": [
 														{
-															"id": "1119c43e-993f-491a-85ca-fe7430e2e122",
 															"key": "petId",
 															"value": "<long>",
 															"description": "(Required) ID of pet to update"
@@ -591,7 +824,6 @@
 									],
 									"variable": [
 										{
-											"id": "eb9894f0-387c-44bb-9402-a15dc1a4357a",
 											"key": "petId",
 											"value": "<long>",
 											"description": "(Required) ID of pet to return"
@@ -643,7 +875,6 @@
 											],
 											"variable": [
 												{
-													"id": "eb9894f0-387c-44bb-9402-a15dc1a4357a",
 													"key": "petId",
 													"value": "<long>",
 													"description": "(Required) ID of pet to return"
@@ -706,7 +937,6 @@
 											],
 											"variable": [
 												{
-													"id": "eb9894f0-387c-44bb-9402-a15dc1a4357a",
 													"key": "petId",
 													"value": "<long>",
 													"description": "(Required) ID of pet to return"
@@ -764,7 +994,6 @@
 											],
 											"variable": [
 												{
-													"id": "eb9894f0-387c-44bb-9402-a15dc1a4357a",
 													"key": "petId",
 													"value": "<long>",
 													"description": "(Required) ID of pet to return"
@@ -834,7 +1063,6 @@
 									],
 									"variable": [
 										{
-											"id": "c7bb7d21-f6bf-4378-9a47-546d996e235b",
 											"key": "petId",
 											"value": "<long>",
 											"description": "(Required) ID of pet that needs to be updated"
@@ -851,9 +1079,16 @@
 											"type": "oauth2",
 											"oauth2": [
 												{
-													"key": "scope",
-													"value": "write:pets read:pets",
-													"type": "string"
+													"key": "accessToken",
+													"type": "any"
+												},
+												{
+													"key": "addTokenTo",
+													"type": "any"
+												},
+												{
+													"key": "callBackUrl",
+													"type": "any"
 												},
 												{
 													"key": "authUrl",
@@ -861,9 +1096,49 @@
 													"type": "string"
 												},
 												{
-													"key": "grant_type",
-													"value": "implicit",
+													"key": "accessTokenUrl",
+													"type": "any"
+												},
+												{
+													"key": "clientId",
+													"type": "any"
+												},
+												{
+													"key": "clientSecret",
+													"type": "any"
+												},
+												{
+													"key": "clientAuth",
+													"type": "any"
+												},
+												{
+													"key": "grantType",
+													"type": "any"
+												},
+												{
+													"key": "scope",
+													"value": "write:pets read:pets",
 													"type": "string"
+												},
+												{
+													"key": "username",
+													"type": "any"
+												},
+												{
+													"key": "password",
+													"type": "any"
+												},
+												{
+													"key": "tokenType",
+													"type": "any"
+												},
+												{
+													"key": "redirectUri",
+													"type": "any"
+												},
+												{
+													"key": "refreshToken",
+													"type": "any"
 												}
 											]
 										},
@@ -892,7 +1167,6 @@
 											],
 											"variable": [
 												{
-													"id": "c7bb7d21-f6bf-4378-9a47-546d996e235b",
 													"key": "petId",
 													"value": "<long>",
 													"description": "(Required) ID of pet that needs to be updated"
@@ -954,7 +1228,6 @@
 									],
 									"variable": [
 										{
-											"id": "866bfe65-fc3c-472c-97ab-7d1710ba7ce7",
 											"key": "petId",
 											"value": "<long>",
 											"description": "(Required) Pet id to delete"
@@ -971,9 +1244,16 @@
 											"type": "oauth2",
 											"oauth2": [
 												{
-													"key": "scope",
-													"value": "write:pets read:pets",
-													"type": "string"
+													"key": "accessToken",
+													"type": "any"
+												},
+												{
+													"key": "addTokenTo",
+													"type": "any"
+												},
+												{
+													"key": "callBackUrl",
+													"type": "any"
 												},
 												{
 													"key": "authUrl",
@@ -981,9 +1261,49 @@
 													"type": "string"
 												},
 												{
-													"key": "grant_type",
-													"value": "implicit",
+													"key": "accessTokenUrl",
+													"type": "any"
+												},
+												{
+													"key": "clientId",
+													"type": "any"
+												},
+												{
+													"key": "clientSecret",
+													"type": "any"
+												},
+												{
+													"key": "clientAuth",
+													"type": "any"
+												},
+												{
+													"key": "grantType",
+													"type": "any"
+												},
+												{
+													"key": "scope",
+													"value": "write:pets read:pets",
 													"type": "string"
+												},
+												{
+													"key": "username",
+													"type": "any"
+												},
+												{
+													"key": "password",
+													"type": "any"
+												},
+												{
+													"key": "tokenType",
+													"type": "any"
+												},
+												{
+													"key": "redirectUri",
+													"type": "any"
+												},
+												{
+													"key": "refreshToken",
+													"type": "any"
 												}
 											]
 										},
@@ -1005,7 +1325,6 @@
 											],
 											"variable": [
 												{
-													"id": "866bfe65-fc3c-472c-97ab-7d1710ba7ce7",
 													"key": "petId",
 													"value": "<long>",
 													"description": "(Required) Pet id to delete"
@@ -1128,9 +1447,16 @@
 									"type": "oauth2",
 									"oauth2": [
 										{
-											"key": "scope",
-											"value": "write:pets read:pets",
-											"type": "string"
+											"key": "accessToken",
+											"type": "any"
+										},
+										{
+											"key": "addTokenTo",
+											"type": "any"
+										},
+										{
+											"key": "callBackUrl",
+											"type": "any"
 										},
 										{
 											"key": "authUrl",
@@ -1138,9 +1464,49 @@
 											"type": "string"
 										},
 										{
-											"key": "grant_type",
-											"value": "implicit",
+											"key": "accessTokenUrl",
+											"type": "any"
+										},
+										{
+											"key": "clientId",
+											"type": "any"
+										},
+										{
+											"key": "clientSecret",
+											"type": "any"
+										},
+										{
+											"key": "clientAuth",
+											"type": "any"
+										},
+										{
+											"key": "grantType",
+											"type": "any"
+										},
+										{
+											"key": "scope",
+											"value": "write:pets read:pets",
 											"type": "string"
+										},
+										{
+											"key": "username",
+											"type": "any"
+										},
+										{
+											"key": "password",
+											"type": "any"
+										},
+										{
+											"key": "tokenType",
+											"type": "any"
+										},
+										{
+											"key": "redirectUri",
+											"type": "any"
+										},
+										{
+											"key": "refreshToken",
+											"type": "any"
 										}
 									]
 								},
@@ -1231,9 +1597,16 @@
 									"type": "oauth2",
 									"oauth2": [
 										{
-											"key": "scope",
-											"value": "write:pets read:pets",
-											"type": "string"
+											"key": "accessToken",
+											"type": "any"
+										},
+										{
+											"key": "addTokenTo",
+											"type": "any"
+										},
+										{
+											"key": "callBackUrl",
+											"type": "any"
 										},
 										{
 											"key": "authUrl",
@@ -1241,9 +1614,49 @@
 											"type": "string"
 										},
 										{
-											"key": "grant_type",
-											"value": "implicit",
+											"key": "accessTokenUrl",
+											"type": "any"
+										},
+										{
+											"key": "clientId",
+											"type": "any"
+										},
+										{
+											"key": "clientSecret",
+											"type": "any"
+										},
+										{
+											"key": "clientAuth",
+											"type": "any"
+										},
+										{
+											"key": "grantType",
+											"type": "any"
+										},
+										{
+											"key": "scope",
+											"value": "write:pets read:pets",
 											"type": "string"
+										},
+										{
+											"key": "username",
+											"type": "any"
+										},
+										{
+											"key": "password",
+											"type": "any"
+										},
+										{
+											"key": "tokenType",
+											"type": "any"
+										},
+										{
+											"key": "redirectUri",
+											"type": "any"
+										},
+										{
+											"key": "refreshToken",
+											"type": "any"
 										}
 									]
 								},
@@ -1329,9 +1742,16 @@
 									"type": "oauth2",
 									"oauth2": [
 										{
-											"key": "scope",
-											"value": "write:pets read:pets",
-											"type": "string"
+											"key": "accessToken",
+											"type": "any"
+										},
+										{
+											"key": "addTokenTo",
+											"type": "any"
+										},
+										{
+											"key": "callBackUrl",
+											"type": "any"
 										},
 										{
 											"key": "authUrl",
@@ -1339,9 +1759,49 @@
 											"type": "string"
 										},
 										{
-											"key": "grant_type",
-											"value": "implicit",
+											"key": "accessTokenUrl",
+											"type": "any"
+										},
+										{
+											"key": "clientId",
+											"type": "any"
+										},
+										{
+											"key": "clientSecret",
+											"type": "any"
+										},
+										{
+											"key": "clientAuth",
+											"type": "any"
+										},
+										{
+											"key": "grantType",
+											"type": "any"
+										},
+										{
+											"key": "scope",
+											"value": "write:pets read:pets",
 											"type": "string"
+										},
+										{
+											"key": "username",
+											"type": "any"
+										},
+										{
+											"key": "password",
+											"type": "any"
+										},
+										{
+											"key": "tokenType",
+											"type": "any"
+										},
+										{
+											"key": "redirectUri",
+											"type": "any"
+										},
+										{
+											"key": "refreshToken",
+											"type": "any"
 										}
 									]
 								},
@@ -1427,9 +1887,16 @@
 									"type": "oauth2",
 									"oauth2": [
 										{
-											"key": "scope",
-											"value": "write:pets read:pets",
-											"type": "string"
+											"key": "accessToken",
+											"type": "any"
+										},
+										{
+											"key": "addTokenTo",
+											"type": "any"
+										},
+										{
+											"key": "callBackUrl",
+											"type": "any"
 										},
 										{
 											"key": "authUrl",
@@ -1437,9 +1904,49 @@
 											"type": "string"
 										},
 										{
-											"key": "grant_type",
-											"value": "implicit",
+											"key": "accessTokenUrl",
+											"type": "any"
+										},
+										{
+											"key": "clientId",
+											"type": "any"
+										},
+										{
+											"key": "clientSecret",
+											"type": "any"
+										},
+										{
+											"key": "clientAuth",
+											"type": "any"
+										},
+										{
+											"key": "grantType",
+											"type": "any"
+										},
+										{
+											"key": "scope",
+											"value": "write:pets read:pets",
 											"type": "string"
+										},
+										{
+											"key": "username",
+											"type": "any"
+										},
+										{
+											"key": "password",
+											"type": "any"
+										},
+										{
+											"key": "tokenType",
+											"type": "any"
+										},
+										{
+											"key": "redirectUri",
+											"type": "any"
+										},
+										{
+											"key": "refreshToken",
+											"type": "any"
 										}
 									]
 								},
@@ -1622,9 +2129,16 @@
 									"type": "oauth2",
 									"oauth2": [
 										{
-											"key": "scope",
-											"value": "write:pets read:pets",
-											"type": "string"
+											"key": "accessToken",
+											"type": "any"
+										},
+										{
+											"key": "addTokenTo",
+											"type": "any"
+										},
+										{
+											"key": "callBackUrl",
+											"type": "any"
 										},
 										{
 											"key": "authUrl",
@@ -1632,9 +2146,49 @@
 											"type": "string"
 										},
 										{
-											"key": "grant_type",
-											"value": "implicit",
+											"key": "accessTokenUrl",
+											"type": "any"
+										},
+										{
+											"key": "clientId",
+											"type": "any"
+										},
+										{
+											"key": "clientSecret",
+											"type": "any"
+										},
+										{
+											"key": "clientAuth",
+											"type": "any"
+										},
+										{
+											"key": "grantType",
+											"type": "any"
+										},
+										{
+											"key": "scope",
+											"value": "write:pets read:pets",
 											"type": "string"
+										},
+										{
+											"key": "username",
+											"type": "any"
+										},
+										{
+											"key": "password",
+											"type": "any"
+										},
+										{
+											"key": "tokenType",
+											"type": "any"
+										},
+										{
+											"key": "redirectUri",
+											"type": "any"
+										},
+										{
+											"key": "refreshToken",
+											"type": "any"
 										}
 									]
 								},
@@ -1725,9 +2279,16 @@
 									"type": "oauth2",
 									"oauth2": [
 										{
-											"key": "scope",
-											"value": "write:pets read:pets",
-											"type": "string"
+											"key": "accessToken",
+											"type": "any"
+										},
+										{
+											"key": "addTokenTo",
+											"type": "any"
+										},
+										{
+											"key": "callBackUrl",
+											"type": "any"
 										},
 										{
 											"key": "authUrl",
@@ -1735,9 +2296,49 @@
 											"type": "string"
 										},
 										{
-											"key": "grant_type",
-											"value": "implicit",
+											"key": "accessTokenUrl",
+											"type": "any"
+										},
+										{
+											"key": "clientId",
+											"type": "any"
+										},
+										{
+											"key": "clientSecret",
+											"type": "any"
+										},
+										{
+											"key": "clientAuth",
+											"type": "any"
+										},
+										{
+											"key": "grantType",
+											"type": "any"
+										},
+										{
+											"key": "scope",
+											"value": "write:pets read:pets",
 											"type": "string"
+										},
+										{
+											"key": "username",
+											"type": "any"
+										},
+										{
+											"key": "password",
+											"type": "any"
+										},
+										{
+											"key": "tokenType",
+											"type": "any"
+										},
+										{
+											"key": "redirectUri",
+											"type": "any"
+										},
+										{
+											"key": "refreshToken",
+											"type": "any"
 										}
 									]
 								},
@@ -1828,6 +2429,37 @@
 					"item": [
 						{
 							"name": "Returns pet inventories by status",
+							"event": [
+								{
+									"listen": "test",
+									"script": {
+										"id": "732db3cd-1f09-429a-ac8d-32d26a39e308",
+										"exec": [
+											"pm.test(\"Schema is valid\", function () {",
+											"  var schema = {",
+											"    type: \"object\",",
+											"    properties: {",
+											"      ordered: { type: \"number\" },",
+											"      approved: { type: \"number\" },",
+											"      placed: { type: \"number\" },",
+											"      test: { type: \"number\" },",
+											"      pending: { type: \"number\" },",
+											"      available: { type: \"number\" },",
+											"      deliver: { type: \"number\" },",
+											"      delivered: { type: \"number\" }",
+											"    },",
+											"    required: [\"ordered\", \"approved\", \"placed\", \"test\", \"pending\", \"available\", \"deliver\", \"delivered\"]",
+											"  };",
+											"",
+											"  var response = pm.response.json();",
+											"  pm.expect(tv4.validate(response, schema)).to.be.true;",
+											"});"
+										],
+										"type": "text/javascript",
+										"packages": {}
+									}
+								}
+							],
 							"id": "7c87794a-f84f-4b27-904d-9ca2ea604a77",
 							"protocolProfileBehavior": {
 								"disableBodyPruning": true
@@ -1965,7 +2597,6 @@
 											],
 											"variable": [
 												{
-													"id": "0d69f2f5-05b1-43c8-82ad-a722578b49c7",
 													"key": "orderId",
 													"value": "<long>",
 													"description": "(Required) ID of order that needs to be fetched"
@@ -1998,7 +2629,6 @@
 													],
 													"variable": [
 														{
-															"id": "0d69f2f5-05b1-43c8-82ad-a722578b49c7",
 															"key": "orderId",
 															"value": "<long>",
 															"description": "(Required) ID of order that needs to be fetched"
@@ -2042,7 +2672,6 @@
 													],
 													"variable": [
 														{
-															"id": "0d69f2f5-05b1-43c8-82ad-a722578b49c7",
 															"key": "orderId",
 															"value": "<long>",
 															"description": "(Required) ID of order that needs to be fetched"
@@ -2081,7 +2710,6 @@
 													],
 													"variable": [
 														{
-															"id": "0d69f2f5-05b1-43c8-82ad-a722578b49c7",
 															"key": "orderId",
 															"value": "<long>",
 															"description": "(Required) ID of order that needs to be fetched"
@@ -2120,7 +2748,6 @@
 											],
 											"variable": [
 												{
-													"id": "1d573f31-e3b3-430b-8161-d91b837e5892",
 													"key": "orderId",
 													"value": "<long>",
 													"description": "(Required) ID of the order that needs to be deleted"
@@ -2148,7 +2775,6 @@
 													],
 													"variable": [
 														{
-															"id": "1d573f31-e3b3-430b-8161-d91b837e5892",
 															"key": "orderId",
 															"value": "<long>",
 															"description": "(Required) ID of the order that needs to be deleted"
@@ -2182,7 +2808,6 @@
 													],
 													"variable": [
 														{
-															"id": "1d573f31-e3b3-430b-8161-d91b837e5892",
 															"key": "orderId",
 															"value": "<long>",
 															"description": "(Required) ID of the order that needs to be deleted"
@@ -2782,7 +3407,6 @@
 									],
 									"variable": [
 										{
-											"id": "bf1ea09f-61cf-4a79-9944-37d8c75cb624",
 											"key": "username",
 											"value": "<string>",
 											"description": "(Required) The name that needs to be fetched. Use user1 for testing. "
@@ -2813,7 +3437,6 @@
 											],
 											"variable": [
 												{
-													"id": "bf1ea09f-61cf-4a79-9944-37d8c75cb624",
 													"key": "username",
 													"value": "<string>",
 													"description": "(Required) The name that needs to be fetched. Use user1 for testing. "
@@ -2855,7 +3478,6 @@
 											],
 											"variable": [
 												{
-													"id": "bf1ea09f-61cf-4a79-9944-37d8c75cb624",
 													"key": "username",
 													"value": "<string>",
 													"description": "(Required) The name that needs to be fetched. Use user1 for testing. "
@@ -2892,7 +3514,6 @@
 											],
 											"variable": [
 												{
-													"id": "bf1ea09f-61cf-4a79-9944-37d8c75cb624",
 													"key": "username",
 													"value": "<string>",
 													"description": "(Required) The name that needs to be fetched. Use user1 for testing. "
@@ -2972,7 +3593,6 @@
 									],
 									"variable": [
 										{
-											"id": "a9746be5-e258-4720-afa3-2f51afdc7018",
 											"key": "username",
 											"value": "<string>",
 											"description": "(Required) name that needs to be updated"
@@ -3042,7 +3662,6 @@
 											],
 											"variable": [
 												{
-													"id": "a9746be5-e258-4720-afa3-2f51afdc7018",
 													"key": "username",
 													"value": "<string>",
 													"description": "(Required) name that needs to be updated"
@@ -3080,7 +3699,6 @@
 									],
 									"variable": [
 										{
-											"id": "3efb5eaf-fb27-458e-81cf-c114402c8ad5",
 											"key": "username",
 											"value": "<string>",
 											"description": "(Required) The name that needs to be deleted"
@@ -3107,7 +3725,6 @@
 											],
 											"variable": [
 												{
-													"id": "3efb5eaf-fb27-458e-81cf-c114402c8ad5",
 													"key": "username",
 													"value": "<string>",
 													"description": "(Required) The name that needs to be deleted"
@@ -3140,7 +3757,6 @@
 											],
 											"variable": [
 												{
-													"id": "3efb5eaf-fb27-458e-81cf-c114402c8ad5",
 													"key": "username",
 													"value": "<string>",
 													"description": "(Required) The name that needs to be deleted"
