@@ -3927,9 +3927,41 @@
 			"id": "9e235d2c-c1eb-40f6-89e9-67355b2ef888"
 		}
 	],
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"id": "d01f498d-f077-446c-8aa4-67717afc8f7a",
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"id": "bfd724ea-48dd-4617-8550-03bccf94967e",
+				"type": "text/javascript",
+				"exec": [
+					"// pm.test(\"Response status code is 200\", function () {",
+					"//     pm.response.to.have.status(200);",
+					"// });",
+					"",
+					"pm.test(\"Response time is less than 200ms\", function () {",
+					"    pm.expect(pm.response.responseTime).to.be.below(200);",
+					"});",
+					"",
+					"// pm.test(\"The response should be in XML format\", function () {",
+					"//     pm.expect(pm.response.headers.get(\"Content-Type\")).to.include(\"application/xml\");",
+					"// });"
+				]
+			}
+		}
+	],
 	"variable": [
 		{
-			"id": "e54936cb-7d97-4721-82d5-aa9e0da8b6f2",
+			"id": "a0df3651-ca39-4d1d-8555-a3c81c3ccd12",
 			"key": "baseUrl",
 			"value": "/api/v3"
 		}
