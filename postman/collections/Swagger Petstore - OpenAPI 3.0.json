@@ -15,6 +15,24 @@
 					"item": [
 						{
 							"name": "Finds Pets by status",
+							"event": [
+								{
+									"listen": "test",
+									"script": {
+										"id": "6b5005bc-ace2-4d66-9929-9b152ef30e94",
+										"exec": [
+											"pm.test(\"Status code is 200\", function () {",
+											"    pm.response.to.have.status(200);",
+											"});",
+											"",
+											"pm.test(\"Response content type is application/xml\", function () {",
+											"    pm.expect(pm.response.headers.get('Content-Type')).to.include('application/xml');",
+											"});"
+										],
+										"type": "text/javascript"
+									}
+								}
+							],
 							"id": "41e3784b-ee03-493a-8f6a-f4612858ef86",
 							"protocolProfileBehavior": {
 								"disableBodyPruning": true
@@ -58,9 +76,9 @@
 									],
 									"query": [
 										{
-											"description": "Status values that need to be considered for filter",
 											"key": "status",
-											"value": "available"
+											"value": "available",
+											"description": "Status values that need to be considered for filter"
 										}
 									]
 								},
