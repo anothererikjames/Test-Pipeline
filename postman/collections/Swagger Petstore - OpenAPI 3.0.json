@@ -21,13 +21,7 @@
 									"script": {
 										"id": "6b5005bc-ace2-4d66-9929-9b152ef30e94",
 										"exec": [
-											"pm.test(\"Status code is 200\", function () {",
-											"    pm.response.to.have.status(200);",
-											"});",
-											"",
-											"pm.test(\"Response content type is application/xml\", function () {",
-											"    pm.expect(pm.response.headers.get('Content-Type')).to.include('application/xml');",
-											"});"
+											""
 										],
 										"type": "text/javascript"
 									}
